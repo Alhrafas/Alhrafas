@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alhrafas" alt="alhrafas" /></a> </p>
 
-- 🔭 I’m currently working on **Spotify-clone**
+- 🔭 I’m currently working on **Spotify-clone and personal-blog**
 
 - 🌱 I’m currently learning **Databases and Algorithm & Rest Framework**
 
